@@ -12,13 +12,15 @@
     "react-dom": "latest",
     "@supabase/supabase-js": "latest"
   },
-  "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
-    "@types/node": "latest"
-    "tailwindcss": "latest",
-    "postcss": "latest",
-    "autoprefixer": "latest"
+"devDependencies": {
+  "typescript": "latest",
+  "@types/react": "latest",
+  "@types/node": "latest",
+  "tailwindcss": "^3.4.1",
+  "postcss": "^8.4.24",
+  "autoprefixer": "^10.4.15"
+}
+
 
   }
 }
