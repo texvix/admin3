@@ -21,6 +21,7 @@ export default function LoginPage() {
   }
 
   return (
+    <div className="bg-red-500 text-white p-4 text-xl font-bold">Testrender</div>
     <div className="min-h-screen bg-gradient-to-br from-blue-100 via-white to-blue-100 flex items-center justify-center px-4">
       <div className="w-full max-w-md bg-white rounded-2xl shadow-lg p-8 space-y-6">
         <h1 className="text-3xl font-bold text-center text-gray-800">Texvix Admin</h1>
